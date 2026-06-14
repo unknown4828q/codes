@@ -1,0 +1,100 @@
+mern = MongoDB, Express.js, React.js, Node.js
+MongoDB- data base- relational-non-relational
+		stores in objects
+		sql stores in tabular form
+
+react.js - library
+		Server side rendering is not performed
+		in next it is done 
+		SEO-search engine optimization is good
+Node.js - runtime environment
+		Memory and resource management
+express.js - web development framework for node.js
+		a set of libraries
+
+##server side is deviden in three parts
+			i. server:grabs request					 \Jwt token authentication(Access(max 1 day) and reference(long term) token) 
+			ii.application logic: piece of logic code/ for security purpose
+			iii. data stores 
+
+	####GSAP
+	#####https://scroll.locomotive.ca/
+	####font awesome 
+	#####font awesome cdn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
